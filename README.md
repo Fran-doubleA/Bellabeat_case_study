@@ -15,11 +15,11 @@ Kaggle datasets download -d arashnic/fitbit CC0: Public Domain
 - OpenAI- ChatGPT.
 
 ## Content
-- [Asking questions](##-1.-Asking-questions)
-- [Preparing data](##-2.-Preparing-data)
-- [Processing data](##-3.-Processing-data)
-- [Analyzing data](##-4.-Analyzing-data)
-- [Conclusions and suggested actions](##.-Conclusions-and-suggested-actions)
+- [Asking questions](#Asking-questions)
+- [Preparing data](#-2.-Preparing-data)
+- [Processing data](#-3.-Processing-data)
+- [Analyzing data](#-4.-Analyzing-data)
+- [Conclusions and suggested actions](#Conclusions-and-suggested-actions)
 
 
 ## 1. Asking questions
