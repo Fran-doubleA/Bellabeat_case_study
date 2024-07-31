@@ -11,7 +11,7 @@ This case study proposes to analyze user interaction data from the Fitbit app to
 Kaggle datasets download -d arashnic/fitbit CC0: Public Domain
 ## Tools
 - Microsoft Excel
-- R programming, 
+- R studio cloud, 
 - OpenAI- ChatGPT.
 
 ## Content
